@@ -1,8 +1,8 @@
 # Tradr
 A trading dashboard similar to the popular Robinhood.com that allows the user to view/interact with popular stocks
 ## Main View
-![screenshot](https://github.com/bzia/Tradr/blob/master/dashboard.png)
-![Alt text](/blob/master/dashboard.png?raw=true "Optional Title")
+
+![Alt text](/dashboard.png?raw=true "Optional Title")
 
 # Getting Started with Create React App
 
